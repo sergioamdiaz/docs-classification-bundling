@@ -1,0 +1,12 @@
+# Paths here will be relative to this config.yaml parent folder
+
+paths:
+  data_dir: "../data"
+  descriptions_file: "../doc_types - real_labels - splits/doc_type_desc_sample_10types.json"
+  output_dir: "../outputs"
+
+types:
+  ["maintenance_training_summary", "incident_report"] # Example
+
+k: # Not implemented yet
+  10

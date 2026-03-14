@@ -1,0 +1,40 @@
+# ML Concepts - Ignore Rules
+
+# Data Folder:
+Data/
+data/
+
+
+# Data Docs:
+*.csv
+
+
+# Docs Folder:
+Docs/
+docs/
+
+
+# Intermidiate steps script
+tools/
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Jupyter (auto backups)
+.ipynb_checkpoints/
+
+
+# VSCode (local setup)
+.vscode/
+
+
+# MacOS extra
+.DS_Store
+
+
+# Cache general
+.cache/

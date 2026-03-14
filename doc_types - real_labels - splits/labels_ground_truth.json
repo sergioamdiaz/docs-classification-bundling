@@ -1,0 +1,2034 @@
+[
+  {
+    "path": "PO-2025-001/FS-001/Engineering/SYN-2025-8182 - Technical Specification  FS-001.pdf",
+    "doc_types": [
+      "technical_specification",
+      "inspection_report",
+      "user_manual",
+      "welding_report",
+      "incident_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 4
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 5,
+        "end_page": 5
+      },
+      {
+        "doc_type": "user_manual",
+        "start_page": 6,
+        "end_page": 7
+      },
+      {
+        "doc_type": "welding_report",
+        "start_page": 8,
+        "end_page": 10
+      },
+      {
+        "doc_type": "incident_report",
+        "start_page": 11,
+        "end_page": 12
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-001/Maintenance/FS-001_Maintenance_Procedure_R2.pdf",
+    "doc_types": [
+      "maintenance_procedure",
+      "material_test_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 1,
+        "end_page": 10
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 11,
+        "end_page": 17
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-001/Quality/Document_2025-06-24.pdf",
+    "doc_types": [
+      "material_test_report",
+      "technical_specification"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 6
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 7,
+        "end_page": 11
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-001/Quality/Document_2025-08-24.pdf",
+    "doc_types": [
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 13
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-001/Shared/SYN-2025-1067 - Heat Treatment Report  FS-001.pdf",
+    "doc_types": [
+      "heat_treatment_report",
+      "material_test_report",
+      "maintenance_procedure"
+    ],
+    "segments": [
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 1,
+        "end_page": 7
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 8,
+        "end_page": 12
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 13,
+        "end_page": 18
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-001/Shared/SYN-2025-6538 - Material Test Report  FS-001.pdf",
+    "doc_types": [
+      "material_test_report",
+      "incident_report",
+      "welding_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 10
+      },
+      {
+        "doc_type": "incident_report",
+        "start_page": 11,
+        "end_page": 21
+      },
+      {
+        "doc_type": "welding_report",
+        "start_page": 22,
+        "end_page": 29
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-001/Welding/FS-001_Welding_Report_R2.pdf",
+    "doc_types": [
+      "welding_report",
+      "technical_specification",
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "welding_report",
+        "start_page": 1,
+        "end_page": 7
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 8,
+        "end_page": 9
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 10,
+        "end_page": 14
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-002/Inspection/FS-002_Inspection_Report_R1.pdf",
+    "doc_types": [
+      "inspection_report",
+      "material_test_report",
+      "welding_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 5
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 6,
+        "end_page": 7
+      },
+      {
+        "doc_type": "welding_report",
+        "start_page": 8,
+        "end_page": 11
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-002/Shared/SYN-2025-9123 - Heat Treatment Report  FS-005.pdf",
+    "doc_types": [
+      "heat_treatment_report",
+      "technical_specification",
+      "maintenance_procedure",
+      "inspection_report",
+      "welding_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 1,
+        "end_page": 5
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 6,
+        "end_page": 6
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 7,
+        "end_page": 8
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 9,
+        "end_page": 10
+      },
+      {
+        "doc_type": "welding_report",
+        "start_page": 11,
+        "end_page": 13
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-002/User_Manual/SYN-2025-9605 - Technical Specification  FS-002.pdf",
+    "doc_types": [
+      "technical_specification",
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 20
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 21,
+        "end_page": 30
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-003/Tech_Spec/SYN-2025-5585 - Technical Specification  FS-003.pdf",
+    "doc_types": [
+      "technical_specification",
+      "incident_report",
+      "maintenance_training_summary",
+      "heat_treatment_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 5
+      },
+      {
+        "doc_type": "incident_report",
+        "start_page": 6,
+        "end_page": 6
+      },
+      {
+        "doc_type": "maintenance_training_summary",
+        "start_page": 7,
+        "end_page": 8
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 9,
+        "end_page": 11
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-004/Design/SYN-2025-8605 - Technical Specification  FS-004.pdf",
+    "doc_types": [
+      "technical_specification"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 16
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-004/Heat_Treatment/SYN-2025-7592 - Heat Treatment Report  FS-003.pdf",
+    "doc_types": [
+      "heat_treatment_report",
+      "technical_specification",
+      "maintenance_procedure",
+      "welding_report",
+      "material_test_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 1,
+        "end_page": 4
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 5,
+        "end_page": 5
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 6,
+        "end_page": 7
+      },
+      {
+        "doc_type": "welding_report",
+        "start_page": 8,
+        "end_page": 10
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 11,
+        "end_page": 12
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-004/Maintenance/Attachment_12.pdf",
+    "doc_types": [
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 13
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-004/Material_Test/Notes_2025-03-17.pdf",
+    "doc_types": [
+      "material_test_report",
+      "maintenance_procedure",
+      "user_manual"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 8
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 9,
+        "end_page": 9
+      },
+      {
+        "doc_type": "user_manual",
+        "start_page": 10,
+        "end_page": 14
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-004/Quality/FS-004_Incident_Report_R0.pdf",
+    "doc_types": [
+      "incident_report",
+      "user_manual"
+    ],
+    "segments": [
+      {
+        "doc_type": "incident_report",
+        "start_page": 1,
+        "end_page": 8
+      },
+      {
+        "doc_type": "user_manual",
+        "start_page": 9,
+        "end_page": 14
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-005/Engineering/SYN-2025-4196 - Technical Specification  FS-005.pdf",
+    "doc_types": [
+      "technical_specification",
+      "material_test_report",
+      "heat_treatment_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 6
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 7,
+        "end_page": 10
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 11,
+        "end_page": 11
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-005/Engineering/SYN-2025-7089 - Technical Specification  FS-005.pdf",
+    "doc_types": [
+      "technical_specification",
+      "maintenance_procedure",
+      "heat_treatment_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 6
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 7,
+        "end_page": 9
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 10,
+        "end_page": 13
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-005/Heat_Treatment/SYN-2025-2359 - Heat Treatment Report  FS-005.pdf",
+    "doc_types": [
+      "heat_treatment_report",
+      "material_test_report",
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 1,
+        "end_page": 7
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 8,
+        "end_page": 11
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 12,
+        "end_page": 14
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-005/Heat_Treatment/SYN-2025-5710 - Heat Treatment Report  FS-005.pdf",
+    "doc_types": [
+      "heat_treatment_report",
+      "inspection_report",
+      "user_manual",
+      "technical_specification"
+    ],
+    "segments": [
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 1,
+        "end_page": 3
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 4,
+        "end_page": 5
+      },
+      {
+        "doc_type": "user_manual",
+        "start_page": 6,
+        "end_page": 13
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 14,
+        "end_page": 15
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-005/Maintenance/FS-005_Maintenance_Procedure_R0.pdf",
+    "doc_types": [
+      "maintenance_procedure",
+      "material_test_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 1,
+        "end_page": 3
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-005/Maintenance/SYN-2025-5912 - Maintenance & Training Summary  FS-005.pdf",
+    "doc_types": [
+      "maintenance_training_summary",
+      "heat_treatment_report",
+      "user_manual",
+      "welding_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "maintenance_training_summary",
+        "start_page": 1,
+        "end_page": 6
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 7,
+        "end_page": 13
+      },
+      {
+        "doc_type": "user_manual",
+        "start_page": 14,
+        "end_page": 20
+      },
+      {
+        "doc_type": "welding_report",
+        "start_page": 21,
+        "end_page": 26
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-005/Material_Test/SYN-2025-8937 - Material Test Report  FS-005.pdf",
+    "doc_types": [
+      "material_test_report",
+      "heat_treatment_report",
+      "inspection_report",
+      "welding_report",
+      "technical_specification"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 3
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 4,
+        "end_page": 4
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/FS-005/Quality/SYN-2025-1985 - Heat Treatment Report  FS-005.pdf",
+    "doc_types": [
+      "heat_treatment_report",
+      "material_test_report",
+      "technical_specification"
+    ],
+    "segments": [
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 1,
+        "end_page": 8
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 9,
+        "end_page": 11
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 12,
+        "end_page": 15
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-001/Shared/SYN-2025-4275 - Heat Treatment Report  FS-004.pdf",
+    "doc_types": [
+      "heat_treatment_report",
+      "material_test_report",
+      "purchase_order_summary"
+    ],
+    "segments": [
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 1,
+        "end_page": 5
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 6,
+        "end_page": 8
+      },
+      {
+        "doc_type": "purchase_order_summary",
+        "start_page": 9,
+        "end_page": 10
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-001/Design/FS-001_Inspection_Report_R0.pdf",
+    "doc_types": [
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 10
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-001/Design/SYN-2025-5168 - Technical Specification  FS-001.pdf",
+    "doc_types": [
+      "technical_specification",
+      "inspection_report",
+      "maintenance_procedure"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 6
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 7,
+        "end_page": 9
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 10,
+        "end_page": 12
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-001/Design/SYN-2025-6495 - Technical Specification  FS-001.pdf",
+    "doc_types": [
+      "technical_specification",
+      "heat_treatment_report",
+      "maintenance_training_summary"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 4
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 5,
+        "end_page": 6
+      },
+      {
+        "doc_type": "maintenance_training_summary",
+        "start_page": 7,
+        "end_page": 9
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-001/Inspection/Summary_2025-12-20.pdf",
+    "doc_types": [
+      "inspection_report",
+      "material_test_report",
+      "welding_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 6
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 7,
+        "end_page": 8
+      },
+      {
+        "doc_type": "welding_report",
+        "start_page": 9,
+        "end_page": 11
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-001/Maintenance/FS-001_Inspection_Report_R2.pdf",
+    "doc_types": [
+      "inspection_report",
+      "user_manual",
+      "heat_treatment_report",
+      "maintenance_procedure",
+      "incident_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 4
+      },
+      {
+        "doc_type": "user_manual",
+        "start_page": 5,
+        "end_page": 6
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 7,
+        "end_page": 10
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 11,
+        "end_page": 13
+      },
+      {
+        "doc_type": "incident_report",
+        "start_page": 14,
+        "end_page": 14
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-001/Misc/PO-2025-002 - Purchase Order Summary.pdf",
+    "doc_types": [
+      "purchase_order_summary",
+      "material_test_report",
+      "maintenance_procedure"
+    ],
+    "segments": [
+      {
+        "doc_type": "purchase_order_summary",
+        "start_page": 1,
+        "end_page": 6
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 7,
+        "end_page": 12
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 13,
+        "end_page": 15
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-001/Operations/FS-001_Maintenance_Procedure_R2.pdf",
+    "doc_types": [
+      "maintenance_procedure",
+      "technical_specification",
+      "material_test_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 1,
+        "end_page": 6
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 7,
+        "end_page": 11
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 12,
+        "end_page": 14
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-001/Shared/PO-2025-002 - Purchase Order Summary.pdf",
+    "doc_types": [
+      "purchase_order_summary",
+      "heat_treatment_report",
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "purchase_order_summary",
+        "start_page": 1,
+        "end_page": 7
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 8,
+        "end_page": 11
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 12,
+        "end_page": 16
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-001/Shared/SYN-2025-6367 - Material Test Report  FS-001.pdf",
+    "doc_types": [
+      "material_test_report",
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 7
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 8,
+        "end_page": 10
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-001/User_Manual/FS-001_User_Manual_R0.pdf",
+    "doc_types": [
+      "user_manual",
+      "heat_treatment_report",
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "user_manual",
+        "start_page": 1,
+        "end_page": 7
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 8,
+        "end_page": 10
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-002/Design/SYN-2025-7748 - Technical Specification  FS-002.pdf",
+    "doc_types": [
+      "technical_specification",
+      "inspection_report",
+      "maintenance_procedure"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 5
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 6,
+        "end_page": 6
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 7,
+        "end_page": 9
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-002/Maintenance/FS-002_Inspection_Report_R2.pdf",
+    "doc_types": [
+      "inspection_report",
+      "heat_treatment_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 6
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 7,
+        "end_page": 11
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-002/Maintenance/FS-002_Maintenance_Procedure_R0.pdf",
+    "doc_types": [
+      "maintenance_procedure",
+      "material_test_report",
+      "technical_specification"
+    ],
+    "segments": [
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 1,
+        "end_page": 6
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 7,
+        "end_page": 9
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 10,
+        "end_page": 11
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-002/Maintenance/FS-002_Maintenance_Procedure_R1.pdf",
+    "doc_types": [
+      "maintenance_procedure",
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 1,
+        "end_page": 9
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 10,
+        "end_page": 16
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-002/Material_Test/SYN-2025-8402 - Material Test Report  FS-002.pdf",
+    "doc_types": [
+      "material_test_report",
+      "technical_specification",
+      "inspection_report",
+      "incident_report",
+      "maintenance_training_summary"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 6
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 7,
+        "end_page": 9
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 10,
+        "end_page": 10
+      },
+      {
+        "doc_type": "incident_report",
+        "start_page": 11,
+        "end_page": 12
+      },
+      {
+        "doc_type": "maintenance_training_summary",
+        "start_page": 13,
+        "end_page": 13
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-002/Quality/Document_2025-04-27.pdf",
+    "doc_types": [
+      "user_manual",
+      "heat_treatment_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "user_manual",
+        "start_page": 1,
+        "end_page": 7
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 8,
+        "end_page": 15
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-002/Quality/FS-002_Inspection_Report_R1.pdf",
+    "doc_types": [
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 14
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-002/Quality/SYN-2025-3478 - Material Test Report  FS-002.pdf",
+    "doc_types": [
+      "material_test_report",
+      "technical_specification",
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 6
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 7,
+        "end_page": 11
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 12,
+        "end_page": 16
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-002/Shared/SYN-2025-5974 - Heat Treatment Report  FS-002.pdf",
+    "doc_types": [
+      "heat_treatment_report",
+      "technical_specification",
+      "inspection_report",
+      "material_test_report",
+      "maintenance_procedure"
+    ],
+    "segments": [
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 1,
+        "end_page": 4
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 5,
+        "end_page": 5
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 6,
+        "end_page": 8
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 9,
+        "end_page": 11
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-002/Shared/SYN-2025-7155 - Material Test Report  FS-002.pdf",
+    "doc_types": [
+      "material_test_report",
+      "technical_specification",
+      "heat_treatment_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 5
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 6,
+        "end_page": 7
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 8,
+        "end_page": 11
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-003/Engineering/SYN-2025-2358 - Technical Specification  FS-003.pdf",
+    "doc_types": [
+      "technical_specification"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 10
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-003/Engineering/SYN-2025-9287 - Technical Specification  FS-003.pdf",
+    "doc_types": [
+      "technical_specification",
+      "welding_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 8
+      },
+      {
+        "doc_type": "welding_report",
+        "start_page": 9,
+        "end_page": 14
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-003/Material_Test/SYN-2025-8026 - Technical Specification  FS-003.pdf",
+    "doc_types": [
+      "technical_specification",
+      "material_test_report",
+      "heat_treatment_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 5
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 6,
+        "end_page": 8
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 9,
+        "end_page": 10
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-003/Welding/FS-003_Welding_Report_R2.pdf",
+    "doc_types": [
+      "welding_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "welding_report",
+        "start_page": 1,
+        "end_page": 11
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-005/Engineering/Document_2025-05-16.pdf",
+    "doc_types": [
+      "technical_specification",
+      "purchase_order_summary",
+      "maintenance_procedure"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 6
+      },
+      {
+        "doc_type": "purchase_order_summary",
+        "start_page": 7,
+        "end_page": 9
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 10,
+        "end_page": 11
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-005/Material_Test/SYN-2025-2475 - Material Test Report  FS-005.pdf",
+    "doc_types": [
+      "material_test_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 3
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-005/Material_Test/SYN-2025-4191 - Material Test Report  FS-005.pdf",
+    "doc_types": [
+      "material_test_report",
+      "welding_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 8
+      },
+      {
+        "doc_type": "welding_report",
+        "start_page": 9,
+        "end_page": 14
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-005/Operations/FS-005_Maintenance_Procedure_R2.pdf",
+    "doc_types": [
+      "maintenance_procedure",
+      "technical_specification",
+      "inspection_report",
+      "heat_treatment_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 1,
+        "end_page": 3
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 4,
+        "end_page": 4
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 5,
+        "end_page": 9
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 10,
+        "end_page": 11
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/FS-005/Welding/FS-005_Welding_Report_R2.pdf",
+    "doc_types": [
+      "welding_report",
+      "material_test_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "welding_report",
+        "start_page": 1,
+        "end_page": 8
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 9,
+        "end_page": 14
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-002/Misc/FS-003_User_Manual_R0.pdf",
+    "doc_types": [
+      "user_manual"
+    ],
+    "segments": [
+      {
+        "doc_type": "user_manual",
+        "start_page": 1,
+        "end_page": 9
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/PO-2025-003 - Purchase Order Summary.pdf",
+    "doc_types": [
+      "purchase_order_summary",
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "purchase_order_summary",
+        "start_page": 1,
+        "end_page": 9
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 10,
+        "end_page": 15
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-001/Inspection/FS-001_Inspection_Report_R0.pdf",
+    "doc_types": [
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 10
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-001/Maintenance/FS-001_Inspection_Report_R1.pdf",
+    "doc_types": [
+      "inspection_report",
+      "maintenance_procedure",
+      "welding_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 7
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 8,
+        "end_page": 8
+      },
+      {
+        "doc_type": "welding_report",
+        "start_page": 9,
+        "end_page": 13
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-001/Misc/FS-001_Welding_Report_R1.pdf",
+    "doc_types": [
+      "welding_report",
+      "heat_treatment_report",
+      "maintenance_procedure"
+    ],
+    "segments": [
+      {
+        "doc_type": "welding_report",
+        "start_page": 1,
+        "end_page": 4
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 5,
+        "end_page": 9
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 10,
+        "end_page": 10
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-001/Operations/FS-001_Maintenance_Procedure_R2.pdf",
+    "doc_types": [
+      "maintenance_procedure"
+    ],
+    "segments": [
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 1,
+        "end_page": 12
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-001/Operations/FS-001_Maintenance_Procedure_R2_863.pdf",
+    "doc_types": [
+      "maintenance_procedure",
+      "welding_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 1,
+        "end_page": 6
+      },
+      {
+        "doc_type": "welding_report",
+        "start_page": 7,
+        "end_page": 9
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-001/Quality/SYN-2025-5623 - Material Test Report  FS-001.pdf",
+    "doc_types": [
+      "material_test_report",
+      "maintenance_training_summary",
+      "maintenance_procedure"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 3
+      },
+      {
+        "doc_type": "maintenance_training_summary",
+        "start_page": 4,
+        "end_page": 7
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 8,
+        "end_page": 10
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-001/Shared/Attachment_8.pdf",
+    "doc_types": [
+      "heat_treatment_report",
+      "technical_specification",
+      "maintenance_procedure"
+    ],
+    "segments": [
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 1,
+        "end_page": 3
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-001/Shared/Document_2025-10-02.pdf",
+    "doc_types": [
+      "material_test_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 13
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-002/Design/SYN-2025-5588 - Technical Specification  FS-002.pdf",
+    "doc_types": [
+      "technical_specification",
+      "inspection_report",
+      "heat_treatment_report",
+      "material_test_report",
+      "maintenance_training_summary"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 10
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 11,
+        "end_page": 16
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 17,
+        "end_page": 20
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 21,
+        "end_page": 28
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-002/Inspection/Document_2025-01-04.pdf",
+    "doc_types": [
+      "inspection_report",
+      "technical_specification"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 11
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 12,
+        "end_page": 16
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-002/Maintenance/FS-002_Inspection_Report_R1.pdf",
+    "doc_types": [
+      "inspection_report",
+      "heat_treatment_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 5
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 6,
+        "end_page": 9
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-002/Maintenance/FS-002_Maintenance_Procedure_R0.pdf",
+    "doc_types": [
+      "maintenance_procedure",
+      "technical_specification",
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 1,
+        "end_page": 4
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 5,
+        "end_page": 8
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 9,
+        "end_page": 12
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-002/Maintenance/FS-004_User_Manual_R1.pdf",
+    "doc_types": [
+      "user_manual",
+      "welding_report",
+      "technical_specification",
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "user_manual",
+        "start_page": 1,
+        "end_page": 7
+      },
+      {
+        "doc_type": "welding_report",
+        "start_page": 8,
+        "end_page": 13
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 14,
+        "end_page": 21
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 22,
+        "end_page": 27
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-003/Design/FS-003_Inspection_Report_R1.pdf",
+    "doc_types": [
+      "inspection_report",
+      "technical_specification"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 9
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 10,
+        "end_page": 15
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-003/Heat_Treatment/SYN-2025-4645 - Heat Treatment Report  FS-003.pdf",
+    "doc_types": [
+      "heat_treatment_report",
+      "technical_specification",
+      "inspection_report",
+      "user_manual",
+      "material_test_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 1,
+        "end_page": 4
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 5,
+        "end_page": 5
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 6,
+        "end_page": 9
+      },
+      {
+        "doc_type": "user_manual",
+        "start_page": 10,
+        "end_page": 10
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 11,
+        "end_page": 11
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-003/Material_Test/FS-002_Inspection_Report_R0.pdf",
+    "doc_types": [
+      "inspection_report",
+      "heat_treatment_report",
+      "technical_specification"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 4
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 5,
+        "end_page": 7
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 8,
+        "end_page": 11
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-003/Operations/FS-003_User_Manual_R0.pdf",
+    "doc_types": [
+      "user_manual",
+      "incident_report",
+      "material_test_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "user_manual",
+        "start_page": 1,
+        "end_page": 8
+      },
+      {
+        "doc_type": "incident_report",
+        "start_page": 9,
+        "end_page": 17
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 18,
+        "end_page": 30
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-003/Operations/Notes_2025-10-13.pdf",
+    "doc_types": [
+      "inspection_report",
+      "heat_treatment_report",
+      "maintenance_procedure"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 11
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 12,
+        "end_page": 22
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 23,
+        "end_page": 30
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-003/Quality/FS-003_Inspection_Report_R1.pdf",
+    "doc_types": [
+      "inspection_report",
+      "maintenance_procedure",
+      "user_manual",
+      "technical_specification"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 3
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-003/Quality/FS-003_Inspection_Report_R2.pdf",
+    "doc_types": [
+      "inspection_report",
+      "technical_specification"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 7
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 8,
+        "end_page": 13
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-003/Shared/SYN-2025-1668 - Material Test Report  FS-003.pdf",
+    "doc_types": [
+      "material_test_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 4
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-003/Tech_Spec/SYN-2025-8687 - Technical Specification  FS-003.pdf",
+    "doc_types": [
+      "technical_specification",
+      "inspection_report",
+      "maintenance_training_summary"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 7
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 8,
+        "end_page": 10
+      },
+      {
+        "doc_type": "maintenance_training_summary",
+        "start_page": 11,
+        "end_page": 12
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-003/Welding/FS-003_Welding_Report_R2.pdf",
+    "doc_types": [
+      "welding_report",
+      "heat_treatment_report",
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "welding_report",
+        "start_page": 1,
+        "end_page": 7
+      },
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 8,
+        "end_page": 9
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 10,
+        "end_page": 15
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-004/Engineering/PO-2025-003 - Purchase Order Summary.pdf",
+    "doc_types": [
+      "purchase_order_summary",
+      "inspection_report",
+      "material_test_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "purchase_order_summary",
+        "start_page": 1,
+        "end_page": 3
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 4,
+        "end_page": 4
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 5,
+        "end_page": 5
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-004/Engineering/SYN-2025-8440 - Technical Specification  FS-004.pdf",
+    "doc_types": [
+      "technical_specification",
+      "inspection_report",
+      "user_manual"
+    ],
+    "segments": [
+      {
+        "doc_type": "technical_specification",
+        "start_page": 1,
+        "end_page": 3
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-004/Heat_Treatment/SYN-2025-1720 - Heat Treatment Report  FS-004.pdf",
+    "doc_types": [
+      "heat_treatment_report",
+      "technical_specification",
+      "maintenance_training_summary"
+    ],
+    "segments": [
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 1,
+        "end_page": 8
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 9,
+        "end_page": 10
+      },
+      {
+        "doc_type": "maintenance_training_summary",
+        "start_page": 11,
+        "end_page": 14
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-004/Maintenance/FS-004_Inspection_Report_R1.pdf",
+    "doc_types": [
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 14
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-004/Maintenance/FS-004_Maintenance_Procedure_R2.pdf",
+    "doc_types": [
+      "maintenance_procedure",
+      "technical_specification"
+    ],
+    "segments": [
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 1,
+        "end_page": 8
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 9,
+        "end_page": 13
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-004/Quality/FS-004_Welding_Report_R0.pdf",
+    "doc_types": [
+      "welding_report",
+      "inspection_report",
+      "material_test_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "welding_report",
+        "start_page": 1,
+        "end_page": 7
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 8,
+        "end_page": 11
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 12,
+        "end_page": 15
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-004/Quality/SYN-2025-1813 - Heat Treatment Report  FS-004.pdf",
+    "doc_types": [
+      "heat_treatment_report",
+      "inspection_report",
+      "maintenance_procedure",
+      "welding_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "heat_treatment_report",
+        "start_page": 1,
+        "end_page": 4
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 5,
+        "end_page": 11
+      },
+      {
+        "doc_type": "maintenance_procedure",
+        "start_page": 12,
+        "end_page": 13
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-004/Shared/SYN-2025-9857 - Material Test Report  FS-004.pdf",
+    "doc_types": [
+      "material_test_report",
+      "welding_report",
+      "technical_specification"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 4
+      },
+      {
+        "doc_type": "welding_report",
+        "start_page": 5,
+        "end_page": 9
+      },
+      {
+        "doc_type": "technical_specification",
+        "start_page": 10,
+        "end_page": 12
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/FS-005/Material_Test/SYN-2025-7517 - Material Test Report  FS-005.pdf",
+    "doc_types": [
+      "material_test_report",
+      "inspection_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "material_test_report",
+        "start_page": 1,
+        "end_page": 7
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 8,
+        "end_page": 12
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/Misc/FS-005_Incident_Report_R0.pdf",
+    "doc_types": [
+      "incident_report",
+      "inspection_report",
+      "heat_treatment_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "incident_report",
+        "start_page": 1,
+        "end_page": 5
+      },
+      {
+        "doc_type": "inspection_report",
+        "start_page": 6,
+        "end_page": 9
+      }
+    ]
+  },
+  {
+    "path": "PO-2025-003/Shared/FS-005_Inspection_Report_R2.pdf",
+    "doc_types": [
+      "inspection_report",
+      "welding_report",
+      "material_test_report"
+    ],
+    "segments": [
+      {
+        "doc_type": "inspection_report",
+        "start_page": 1,
+        "end_page": 12
+      },
+      {
+        "doc_type": "welding_report",
+        "start_page": 13,
+        "end_page": 19
+      },
+      {
+        "doc_type": "material_test_report",
+        "start_page": 20,
+        "end_page": 26
+      }
+    ]
+  }
+]

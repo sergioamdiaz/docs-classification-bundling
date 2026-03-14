@@ -1,0 +1,1393 @@
+{
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-001\\Engineering\\SYN-2025-8182 - Technical Specification  FS-001.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 7,
+            "n_pages": 7,
+            "percent_of_doc": 0.58
+        },
+        {
+            "doc_type": "welding_report",
+            "first_page": 8,
+            "last_page": 12,
+            "n_pages": 5,
+            "percent_of_doc": 0.42
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-001\\Maintenance\\FS-001_Maintenance_Procedure_R2.pdf": [
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 1,
+            "last_page": 10,
+            "n_pages": 10,
+            "percent_of_doc": 0.59
+        },
+        {
+            "doc_type": "material_test_report",
+            "first_page": 11,
+            "last_page": 17,
+            "n_pages": 7,
+            "percent_of_doc": 0.41
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-001\\Quality\\Document_2025-06-24.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 6,
+            "n_pages": 6,
+            "percent_of_doc": 0.55
+        },
+        {
+            "doc_type": "technical_specification",
+            "first_page": 7,
+            "last_page": 11,
+            "n_pages": 5,
+            "percent_of_doc": 0.45
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-001\\Quality\\Document_2025-08-24.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 13,
+            "n_pages": 13,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-001\\Shared\\SYN-2025-1067 - Heat Treatment Report  FS-001.pdf": [
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 1,
+            "last_page": 7,
+            "n_pages": 7,
+            "percent_of_doc": 0.39
+        },
+        {
+            "doc_type": "material_test_report",
+            "first_page": 8,
+            "last_page": 12,
+            "n_pages": 5,
+            "percent_of_doc": 0.28
+        },
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 13,
+            "last_page": 18,
+            "n_pages": 6,
+            "percent_of_doc": 0.33
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-001\\Shared\\SYN-2025-6538 - Material Test Report  FS-001.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 10,
+            "n_pages": 10,
+            "percent_of_doc": 0.34
+        },
+        {
+            "doc_type": "incident_report",
+            "first_page": 11,
+            "last_page": 21,
+            "n_pages": 11,
+            "percent_of_doc": 0.38
+        },
+        {
+            "doc_type": "welding_report",
+            "first_page": 22,
+            "last_page": 29,
+            "n_pages": 8,
+            "percent_of_doc": 0.28
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-001\\Welding\\FS-001_Welding_Report_R2.pdf": [
+        {
+            "doc_type": "welding_report",
+            "first_page": 1,
+            "last_page": 14,
+            "n_pages": 14,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-002\\Inspection\\FS-002_Inspection_Report_R1.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 7,
+            "n_pages": 7,
+            "percent_of_doc": 0.64
+        },
+        {
+            "doc_type": "welding_report",
+            "first_page": 8,
+            "last_page": 11,
+            "n_pages": 4,
+            "percent_of_doc": 0.36
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-002\\Shared\\SYN-2025-9123 - Heat Treatment Report  FS-005.pdf": [
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 1,
+            "last_page": 13,
+            "n_pages": 13,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-002\\User_Manual\\SYN-2025-9605 - Technical Specification  FS-002.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 27,
+            "n_pages": 27,
+            "percent_of_doc": 0.9
+        },
+        {
+            "doc_type": "inspection_report",
+            "first_page": 28,
+            "last_page": 30,
+            "n_pages": 3,
+            "percent_of_doc": 0.1
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-003\\Tech_Spec\\SYN-2025-5585 - Technical Specification  FS-003.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 8,
+            "n_pages": 8,
+            "percent_of_doc": 0.73
+        },
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 9,
+            "last_page": 11,
+            "n_pages": 3,
+            "percent_of_doc": 0.27
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-004\\Design\\SYN-2025-8605 - Technical Specification  FS-004.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 16,
+            "n_pages": 16,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-004\\Heat_Treatment\\SYN-2025-7592 - Heat Treatment Report  FS-003.pdf": [
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 1,
+            "last_page": 7,
+            "n_pages": 7,
+            "percent_of_doc": 0.58
+        },
+        {
+            "doc_type": "welding_report",
+            "first_page": 8,
+            "last_page": 12,
+            "n_pages": 5,
+            "percent_of_doc": 0.42
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-004\\Maintenance\\Attachment_12.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 13,
+            "n_pages": 13,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-004\\Material_Test\\Notes_2025-03-17.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 9,
+            "n_pages": 9,
+            "percent_of_doc": 0.64
+        },
+        {
+            "doc_type": "user_manual",
+            "first_page": 10,
+            "last_page": 14,
+            "n_pages": 5,
+            "percent_of_doc": 0.36
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-004\\Quality\\FS-004_Incident_Report_R0.pdf": [
+        {
+            "doc_type": "incident_report",
+            "first_page": 1,
+            "last_page": 8,
+            "n_pages": 8,
+            "percent_of_doc": 0.57
+        },
+        {
+            "doc_type": "user_manual",
+            "first_page": 9,
+            "last_page": 14,
+            "n_pages": 6,
+            "percent_of_doc": 0.43
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-005\\Engineering\\SYN-2025-4196 - Technical Specification  FS-005.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 6,
+            "n_pages": 6,
+            "percent_of_doc": 0.55
+        },
+        {
+            "doc_type": "material_test_report",
+            "first_page": 7,
+            "last_page": 11,
+            "n_pages": 5,
+            "percent_of_doc": 0.45
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-005\\Engineering\\SYN-2025-7089 - Technical Specification  FS-005.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 6,
+            "n_pages": 6,
+            "percent_of_doc": 0.46
+        },
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 7,
+            "last_page": 9,
+            "n_pages": 3,
+            "percent_of_doc": 0.23
+        },
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 10,
+            "last_page": 13,
+            "n_pages": 4,
+            "percent_of_doc": 0.31
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-005\\Heat_Treatment\\SYN-2025-2359 - Heat Treatment Report  FS-005.pdf": [
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 1,
+            "last_page": 7,
+            "n_pages": 7,
+            "percent_of_doc": 0.5
+        },
+        {
+            "doc_type": "material_test_report",
+            "first_page": 8,
+            "last_page": 11,
+            "n_pages": 4,
+            "percent_of_doc": 0.29
+        },
+        {
+            "doc_type": "inspection_report",
+            "first_page": 12,
+            "last_page": 14,
+            "n_pages": 3,
+            "percent_of_doc": 0.21
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-005\\Heat_Treatment\\SYN-2025-5710 - Heat Treatment Report  FS-005.pdf": [
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 1,
+            "last_page": 5,
+            "n_pages": 5,
+            "percent_of_doc": 0.33
+        },
+        {
+            "doc_type": "user_manual",
+            "first_page": 6,
+            "last_page": 15,
+            "n_pages": 10,
+            "percent_of_doc": 0.67
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-005\\Maintenance\\FS-005_Maintenance_Procedure_R0.pdf": [
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 1,
+            "last_page": 3,
+            "n_pages": 3,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-005\\Maintenance\\SYN-2025-5912 - Maintenance & Training Summary  FS-005.pdf": [
+        {
+            "doc_type": "maintenance_training_summary",
+            "first_page": 1,
+            "last_page": 6,
+            "n_pages": 6,
+            "percent_of_doc": 0.23
+        },
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 7,
+            "last_page": 13,
+            "n_pages": 7,
+            "percent_of_doc": 0.27
+        },
+        {
+            "doc_type": "user_manual",
+            "first_page": 14,
+            "last_page": 20,
+            "n_pages": 7,
+            "percent_of_doc": 0.27
+        },
+        {
+            "doc_type": "welding_report",
+            "first_page": 21,
+            "last_page": 26,
+            "n_pages": 6,
+            "percent_of_doc": 0.23
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-005\\Material_Test\\SYN-2025-8937 - Material Test Report  FS-005.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 4,
+            "n_pages": 4,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\FS-005\\Quality\\SYN-2025-1985 - Heat Treatment Report  FS-005.pdf": [
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 1,
+            "last_page": 8,
+            "n_pages": 8,
+            "percent_of_doc": 0.53
+        },
+        {
+            "doc_type": "material_test_report",
+            "first_page": 9,
+            "last_page": 11,
+            "n_pages": 3,
+            "percent_of_doc": 0.2
+        },
+        {
+            "doc_type": "technical_specification",
+            "first_page": 12,
+            "last_page": 15,
+            "n_pages": 4,
+            "percent_of_doc": 0.27
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-001\\Shared\\SYN-2025-4275 - Heat Treatment Report  FS-004.pdf": [
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 1,
+            "last_page": 5,
+            "n_pages": 5,
+            "percent_of_doc": 0.5
+        },
+        {
+            "doc_type": "material_test_report",
+            "first_page": 6,
+            "last_page": 10,
+            "n_pages": 5,
+            "percent_of_doc": 0.5
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-001\\Design\\FS-001_Inspection_Report_R0.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 10,
+            "n_pages": 10,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-001\\Design\\SYN-2025-5168 - Technical Specification  FS-001.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 9,
+            "n_pages": 9,
+            "percent_of_doc": 0.75
+        },
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 10,
+            "last_page": 12,
+            "n_pages": 3,
+            "percent_of_doc": 0.25
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-001\\Design\\SYN-2025-6495 - Technical Specification  FS-001.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 6,
+            "n_pages": 6,
+            "percent_of_doc": 0.67
+        },
+        {
+            "doc_type": "maintenance_training_summary",
+            "first_page": 7,
+            "last_page": 9,
+            "n_pages": 3,
+            "percent_of_doc": 0.33
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-001\\Inspection\\Summary_2025-12-20.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 8,
+            "n_pages": 8,
+            "percent_of_doc": 0.73
+        },
+        {
+            "doc_type": "welding_report",
+            "first_page": 9,
+            "last_page": 11,
+            "n_pages": 3,
+            "percent_of_doc": 0.27
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-001\\Maintenance\\FS-001_Inspection_Report_R2.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 6,
+            "n_pages": 6,
+            "percent_of_doc": 0.43
+        },
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 7,
+            "last_page": 10,
+            "n_pages": 4,
+            "percent_of_doc": 0.29
+        },
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 11,
+            "last_page": 14,
+            "n_pages": 4,
+            "percent_of_doc": 0.29
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-001\\Misc\\PO-2025-002 - Purchase Order Summary.pdf": [
+        {
+            "doc_type": "purchase_order_summary",
+            "first_page": 1,
+            "last_page": 6,
+            "n_pages": 6,
+            "percent_of_doc": 0.4
+        },
+        {
+            "doc_type": "material_test_report",
+            "first_page": 7,
+            "last_page": 12,
+            "n_pages": 6,
+            "percent_of_doc": 0.4
+        },
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 13,
+            "last_page": 15,
+            "n_pages": 3,
+            "percent_of_doc": 0.2
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-001\\Operations\\FS-001_Maintenance_Procedure_R2.pdf": [
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 1,
+            "last_page": 8,
+            "n_pages": 8,
+            "percent_of_doc": 0.57
+        },
+        {
+            "doc_type": "technical_specification",
+            "first_page": 9,
+            "last_page": 11,
+            "n_pages": 3,
+            "percent_of_doc": 0.21
+        },
+        {
+            "doc_type": "material_test_report",
+            "first_page": 12,
+            "last_page": 14,
+            "n_pages": 3,
+            "percent_of_doc": 0.21
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-001\\Shared\\PO-2025-002 - Purchase Order Summary.pdf": [
+        {
+            "doc_type": "purchase_order_summary",
+            "first_page": 1,
+            "last_page": 7,
+            "n_pages": 7,
+            "percent_of_doc": 0.44
+        },
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 8,
+            "last_page": 11,
+            "n_pages": 4,
+            "percent_of_doc": 0.25
+        },
+        {
+            "doc_type": "inspection_report",
+            "first_page": 12,
+            "last_page": 16,
+            "n_pages": 5,
+            "percent_of_doc": 0.31
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-001\\Shared\\SYN-2025-6367 - Material Test Report  FS-001.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 10,
+            "n_pages": 10,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-001\\User_Manual\\FS-001_User_Manual_R0.pdf": [
+        {
+            "doc_type": "user_manual",
+            "first_page": 1,
+            "last_page": 10,
+            "n_pages": 10,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-002\\Design\\SYN-2025-7748 - Technical Specification  FS-002.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 6,
+            "n_pages": 6,
+            "percent_of_doc": 0.67
+        },
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 7,
+            "last_page": 9,
+            "n_pages": 3,
+            "percent_of_doc": 0.33
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-002\\Maintenance\\FS-002_Inspection_Report_R2.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 6,
+            "n_pages": 6,
+            "percent_of_doc": 0.55
+        },
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 7,
+            "last_page": 11,
+            "n_pages": 5,
+            "percent_of_doc": 0.45
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-002\\Maintenance\\FS-002_Maintenance_Procedure_R0.pdf": [
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 1,
+            "last_page": 6,
+            "n_pages": 6,
+            "percent_of_doc": 0.55
+        },
+        {
+            "doc_type": "material_test_report",
+            "first_page": 7,
+            "last_page": 11,
+            "n_pages": 5,
+            "percent_of_doc": 0.45
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-002\\Maintenance\\FS-002_Maintenance_Procedure_R1.pdf": [
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 1,
+            "last_page": 9,
+            "n_pages": 9,
+            "percent_of_doc": 0.56
+        },
+        {
+            "doc_type": "inspection_report",
+            "first_page": 10,
+            "last_page": 16,
+            "n_pages": 7,
+            "percent_of_doc": 0.44
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-002\\Material_Test\\SYN-2025-8402 - Material Test Report  FS-002.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 6,
+            "n_pages": 6,
+            "percent_of_doc": 0.46
+        },
+        {
+            "doc_type": "technical_specification",
+            "first_page": 7,
+            "last_page": 13,
+            "n_pages": 7,
+            "percent_of_doc": 0.54
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-002\\Quality\\Document_2025-04-27.pdf": [
+        {
+            "doc_type": "user_manual",
+            "first_page": 1,
+            "last_page": 7,
+            "n_pages": 7,
+            "percent_of_doc": 0.47
+        },
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 8,
+            "last_page": 15,
+            "n_pages": 8,
+            "percent_of_doc": 0.53
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-002\\Quality\\FS-002_Inspection_Report_R1.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 14,
+            "n_pages": 14,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-002\\Quality\\SYN-2025-3478 - Material Test Report  FS-002.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 6,
+            "n_pages": 6,
+            "percent_of_doc": 0.38
+        },
+        {
+            "doc_type": "technical_specification",
+            "first_page": 7,
+            "last_page": 11,
+            "n_pages": 5,
+            "percent_of_doc": 0.31
+        },
+        {
+            "doc_type": "inspection_report",
+            "first_page": 12,
+            "last_page": 16,
+            "n_pages": 5,
+            "percent_of_doc": 0.31
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-002\\Shared\\SYN-2025-5974 - Heat Treatment Report  FS-002.pdf": [
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 1,
+            "last_page": 5,
+            "n_pages": 5,
+            "percent_of_doc": 0.45
+        },
+        {
+            "doc_type": "inspection_report",
+            "first_page": 6,
+            "last_page": 8,
+            "n_pages": 3,
+            "percent_of_doc": 0.27
+        },
+        {
+            "doc_type": "material_test_report",
+            "first_page": 9,
+            "last_page": 11,
+            "n_pages": 3,
+            "percent_of_doc": 0.27
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-002\\Shared\\SYN-2025-7155 - Material Test Report  FS-002.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 7,
+            "n_pages": 7,
+            "percent_of_doc": 0.64
+        },
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 8,
+            "last_page": 11,
+            "n_pages": 4,
+            "percent_of_doc": 0.36
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-003\\Engineering\\SYN-2025-2358 - Technical Specification  FS-003.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 4,
+            "n_pages": 4,
+            "percent_of_doc": 0.4
+        },
+        {
+            "doc_type": "purchase_order_summary",
+            "first_page": 5,
+            "last_page": 10,
+            "n_pages": 6,
+            "percent_of_doc": 0.6
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-003\\Engineering\\SYN-2025-9287 - Technical Specification  FS-003.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 8,
+            "n_pages": 8,
+            "percent_of_doc": 0.57
+        },
+        {
+            "doc_type": "welding_report",
+            "first_page": 9,
+            "last_page": 14,
+            "n_pages": 6,
+            "percent_of_doc": 0.43
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-003\\Material_Test\\SYN-2025-8026 - Technical Specification  FS-003.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 5,
+            "n_pages": 5,
+            "percent_of_doc": 0.5
+        },
+        {
+            "doc_type": "material_test_report",
+            "first_page": 6,
+            "last_page": 10,
+            "n_pages": 5,
+            "percent_of_doc": 0.5
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-003\\Welding\\FS-003_Welding_Report_R2.pdf": [
+        {
+            "doc_type": "welding_report",
+            "first_page": 1,
+            "last_page": 11,
+            "n_pages": 11,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-005\\Engineering\\Document_2025-05-16.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 3,
+            "n_pages": 3,
+            "percent_of_doc": 0.27
+        },
+        {
+            "doc_type": "purchase_order_summary",
+            "first_page": 4,
+            "last_page": 11,
+            "n_pages": 8,
+            "percent_of_doc": 0.73
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-005\\Material_Test\\SYN-2025-2475 - Material Test Report  FS-005.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 3,
+            "n_pages": 3,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-005\\Material_Test\\SYN-2025-4191 - Material Test Report  FS-005.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 8,
+            "n_pages": 8,
+            "percent_of_doc": 0.57
+        },
+        {
+            "doc_type": "welding_report",
+            "first_page": 9,
+            "last_page": 14,
+            "n_pages": 6,
+            "percent_of_doc": 0.43
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-005\\Operations\\FS-005_Maintenance_Procedure_R2.pdf": [
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 1,
+            "last_page": 4,
+            "n_pages": 4,
+            "percent_of_doc": 0.36
+        },
+        {
+            "doc_type": "inspection_report",
+            "first_page": 5,
+            "last_page": 11,
+            "n_pages": 7,
+            "percent_of_doc": 0.64
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\FS-005\\Welding\\FS-005_Welding_Report_R2.pdf": [
+        {
+            "doc_type": "welding_report",
+            "first_page": 1,
+            "last_page": 14,
+            "n_pages": 14,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-002\\Misc\\FS-003_User_Manual_R0.pdf": [
+        {
+            "doc_type": "user_manual",
+            "first_page": 1,
+            "last_page": 9,
+            "n_pages": 9,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-001\\Inspection\\FS-001_Inspection_Report_R0.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 10,
+            "n_pages": 10,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-001\\Maintenance\\FS-001_Inspection_Report_R1.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 8,
+            "n_pages": 8,
+            "percent_of_doc": 0.62
+        },
+        {
+            "doc_type": "welding_report",
+            "first_page": 9,
+            "last_page": 13,
+            "n_pages": 5,
+            "percent_of_doc": 0.38
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-001\\Misc\\FS-001_Welding_Report_R1.pdf": [
+        {
+            "doc_type": "welding_report",
+            "first_page": 1,
+            "last_page": 10,
+            "n_pages": 10,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-001\\Operations\\FS-001_Maintenance_Procedure_R2.pdf": [
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 1,
+            "last_page": 12,
+            "n_pages": 12,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-001\\Operations\\FS-001_Maintenance_Procedure_R2_863.pdf": [
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 1,
+            "last_page": 6,
+            "n_pages": 6,
+            "percent_of_doc": 0.67
+        },
+        {
+            "doc_type": "welding_report",
+            "first_page": 7,
+            "last_page": 9,
+            "n_pages": 3,
+            "percent_of_doc": 0.33
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-001\\Quality\\SYN-2025-5623 - Material Test Report  FS-001.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 3,
+            "n_pages": 3,
+            "percent_of_doc": 0.3
+        },
+        {
+            "doc_type": "maintenance_training_summary",
+            "first_page": 4,
+            "last_page": 7,
+            "n_pages": 4,
+            "percent_of_doc": 0.4
+        },
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 8,
+            "last_page": 10,
+            "n_pages": 3,
+            "percent_of_doc": 0.3
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-001\\Shared\\Attachment_8.pdf": [
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 1,
+            "last_page": 3,
+            "n_pages": 3,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-001\\Shared\\Document_2025-10-02.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 13,
+            "n_pages": 13,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-002\\Design\\SYN-2025-5588 - Technical Specification  FS-002.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 10,
+            "n_pages": 10,
+            "percent_of_doc": 0.36
+        },
+        {
+            "doc_type": "inspection_report",
+            "first_page": 11,
+            "last_page": 16,
+            "n_pages": 6,
+            "percent_of_doc": 0.21
+        },
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 17,
+            "last_page": 20,
+            "n_pages": 4,
+            "percent_of_doc": 0.14
+        },
+        {
+            "doc_type": "material_test_report",
+            "first_page": 21,
+            "last_page": 28,
+            "n_pages": 8,
+            "percent_of_doc": 0.29
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-002\\Inspection\\Document_2025-01-04.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 16,
+            "n_pages": 16,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-002\\Maintenance\\FS-002_Inspection_Report_R1.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 5,
+            "n_pages": 5,
+            "percent_of_doc": 0.56
+        },
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 6,
+            "last_page": 9,
+            "n_pages": 4,
+            "percent_of_doc": 0.44
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-002\\Maintenance\\FS-002_Maintenance_Procedure_R0.pdf": [
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 1,
+            "last_page": 4,
+            "n_pages": 4,
+            "percent_of_doc": 0.33
+        },
+        {
+            "doc_type": "technical_specification",
+            "first_page": 5,
+            "last_page": 8,
+            "n_pages": 4,
+            "percent_of_doc": 0.33
+        },
+        {
+            "doc_type": "inspection_report",
+            "first_page": 9,
+            "last_page": 12,
+            "n_pages": 4,
+            "percent_of_doc": 0.33
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-002\\Maintenance\\FS-004_User_Manual_R1.pdf": [
+        {
+            "doc_type": "user_manual",
+            "first_page": 1,
+            "last_page": 7,
+            "n_pages": 7,
+            "percent_of_doc": 0.26
+        },
+        {
+            "doc_type": "welding_report",
+            "first_page": 8,
+            "last_page": 15,
+            "n_pages": 8,
+            "percent_of_doc": 0.3
+        },
+        {
+            "doc_type": "technical_specification",
+            "first_page": 16,
+            "last_page": 21,
+            "n_pages": 6,
+            "percent_of_doc": 0.22
+        },
+        {
+            "doc_type": "inspection_report",
+            "first_page": 22,
+            "last_page": 27,
+            "n_pages": 6,
+            "percent_of_doc": 0.22
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-003\\Design\\FS-003_Inspection_Report_R1.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 9,
+            "n_pages": 9,
+            "percent_of_doc": 0.6
+        },
+        {
+            "doc_type": "technical_specification",
+            "first_page": 10,
+            "last_page": 15,
+            "n_pages": 6,
+            "percent_of_doc": 0.4
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-003\\Heat_Treatment\\SYN-2025-4645 - Heat Treatment Report  FS-003.pdf": [
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 1,
+            "last_page": 5,
+            "n_pages": 5,
+            "percent_of_doc": 0.45
+        },
+        {
+            "doc_type": "inspection_report",
+            "first_page": 6,
+            "last_page": 11,
+            "n_pages": 6,
+            "percent_of_doc": 0.55
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-003\\Material_Test\\FS-002_Inspection_Report_R0.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 4,
+            "n_pages": 4,
+            "percent_of_doc": 0.36
+        },
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 5,
+            "last_page": 7,
+            "n_pages": 3,
+            "percent_of_doc": 0.27
+        },
+        {
+            "doc_type": "technical_specification",
+            "first_page": 8,
+            "last_page": 11,
+            "n_pages": 4,
+            "percent_of_doc": 0.36
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-003\\Operations\\FS-003_User_Manual_R0.pdf": [
+        {
+            "doc_type": "user_manual",
+            "first_page": 1,
+            "last_page": 8,
+            "n_pages": 8,
+            "percent_of_doc": 0.27
+        },
+        {
+            "doc_type": "incident_report",
+            "first_page": 9,
+            "last_page": 17,
+            "n_pages": 9,
+            "percent_of_doc": 0.3
+        },
+        {
+            "doc_type": "material_test_report",
+            "first_page": 18,
+            "last_page": 30,
+            "n_pages": 13,
+            "percent_of_doc": 0.43
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-003\\Operations\\Notes_2025-10-13.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 11,
+            "n_pages": 11,
+            "percent_of_doc": 0.37
+        },
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 12,
+            "last_page": 22,
+            "n_pages": 11,
+            "percent_of_doc": 0.37
+        },
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 23,
+            "last_page": 30,
+            "n_pages": 8,
+            "percent_of_doc": 0.27
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-003\\Quality\\FS-003_Inspection_Report_R1.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 3,
+            "n_pages": 3,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-003\\Quality\\FS-003_Inspection_Report_R2.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 13,
+            "n_pages": 13,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-003\\Shared\\SYN-2025-1668 - Material Test Report  FS-003.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 4,
+            "n_pages": 4,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-003\\Tech_Spec\\SYN-2025-8687 - Technical Specification  FS-003.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 12,
+            "n_pages": 12,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-003\\Welding\\FS-003_Welding_Report_R2.pdf": [
+        {
+            "doc_type": "welding_report",
+            "first_page": 1,
+            "last_page": 15,
+            "n_pages": 15,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-004\\Engineering\\PO-2025-003 - Purchase Order Summary.pdf": [
+        {
+            "doc_type": "purchase_order_summary",
+            "first_page": 1,
+            "last_page": 5,
+            "n_pages": 5,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-004\\Engineering\\SYN-2025-8440 - Technical Specification  FS-004.pdf": [
+        {
+            "doc_type": "technical_specification",
+            "first_page": 1,
+            "last_page": 3,
+            "n_pages": 3,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-004\\Heat_Treatment\\SYN-2025-1720 - Heat Treatment Report  FS-004.pdf": [
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 1,
+            "last_page": 10,
+            "n_pages": 10,
+            "percent_of_doc": 0.71
+        },
+        {
+            "doc_type": "maintenance_training_summary",
+            "first_page": 11,
+            "last_page": 14,
+            "n_pages": 4,
+            "percent_of_doc": 0.29
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-004\\Maintenance\\FS-004_Inspection_Report_R1.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 14,
+            "n_pages": 14,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-004\\Maintenance\\FS-004_Maintenance_Procedure_R2.pdf": [
+        {
+            "doc_type": "maintenance_procedure",
+            "first_page": 1,
+            "last_page": 8,
+            "n_pages": 8,
+            "percent_of_doc": 0.62
+        },
+        {
+            "doc_type": "technical_specification",
+            "first_page": 9,
+            "last_page": 13,
+            "n_pages": 5,
+            "percent_of_doc": 0.38
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-004\\Quality\\FS-004_Welding_Report_R0.pdf": [
+        {
+            "doc_type": "welding_report",
+            "first_page": 1,
+            "last_page": 15,
+            "n_pages": 15,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-004\\Quality\\SYN-2025-1813 - Heat Treatment Report  FS-004.pdf": [
+        {
+            "doc_type": "heat_treatment_report",
+            "first_page": 1,
+            "last_page": 4,
+            "n_pages": 4,
+            "percent_of_doc": 0.31
+        },
+        {
+            "doc_type": "inspection_report",
+            "first_page": 5,
+            "last_page": 13,
+            "n_pages": 9,
+            "percent_of_doc": 0.69
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-004\\Shared\\SYN-2025-9857 - Material Test Report  FS-004.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 4,
+            "n_pages": 4,
+            "percent_of_doc": 0.33
+        },
+        {
+            "doc_type": "welding_report",
+            "first_page": 5,
+            "last_page": 9,
+            "n_pages": 5,
+            "percent_of_doc": 0.42
+        },
+        {
+            "doc_type": "technical_specification",
+            "first_page": 10,
+            "last_page": 12,
+            "n_pages": 3,
+            "percent_of_doc": 0.25
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\FS-005\\Material_Test\\SYN-2025-7517 - Material Test Report  FS-005.pdf": [
+        {
+            "doc_type": "material_test_report",
+            "first_page": 1,
+            "last_page": 7,
+            "n_pages": 7,
+            "percent_of_doc": 0.58
+        },
+        {
+            "doc_type": "inspection_report",
+            "first_page": 8,
+            "last_page": 12,
+            "n_pages": 5,
+            "percent_of_doc": 0.42
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\Misc\\FS-005_Incident_Report_R0.pdf": [
+        {
+            "doc_type": "incident_report",
+            "first_page": 1,
+            "last_page": 9,
+            "n_pages": 9,
+            "percent_of_doc": 1.0
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\PO-2025-003 - Purchase Order Summary.pdf": [
+        {
+            "doc_type": "purchase_order_summary",
+            "first_page": 1,
+            "last_page": 9,
+            "n_pages": 9,
+            "percent_of_doc": 0.6
+        },
+        {
+            "doc_type": "inspection_report",
+            "first_page": 10,
+            "last_page": 15,
+            "n_pages": 6,
+            "percent_of_doc": 0.4
+        }
+    ],
+    "C:\\Proyectos\\KINECTRICS\\Docs Classification\\Harosha Github - report-bundling\\config\\..\\data - ground_truth\\PO-2025-003\\Shared\\FS-005_Inspection_Report_R2.pdf": [
+        {
+            "doc_type": "inspection_report",
+            "first_page": 1,
+            "last_page": 12,
+            "n_pages": 12,
+            "percent_of_doc": 0.46
+        },
+        {
+            "doc_type": "welding_report",
+            "first_page": 13,
+            "last_page": 19,
+            "n_pages": 7,
+            "percent_of_doc": 0.27
+        },
+        {
+            "doc_type": "material_test_report",
+            "first_page": 20,
+            "last_page": 26,
+            "n_pages": 7,
+            "percent_of_doc": 0.27
+        }
+    ]
+}

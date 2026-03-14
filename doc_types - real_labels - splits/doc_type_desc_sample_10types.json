@@ -1,0 +1,41 @@
+{
+  "purchase_order_summary": [
+    "Executive summary of a Purchase Order (PO) that consolidates scope, deliverables, milestones, documentation requirements, and key contacts. It often references multiple services (FS) and clarifies expected documents, revision control, and acceptance criteria for release and delivery."
+  ],
+
+  "technical_specification": [
+    "Technical document defining the engineering scope and requirements for a component or supply, including interfaces, tolerances, materials, acceptance criteria, identification and traceability requirements, and mandatory documentation. It typically states precedence rules in case of conflicts and the process for approved deviations."
+  ],
+
+  "inspection_report": [
+    "Record of inspections performed, such as visual, dimensional, and documentation reviews, against defined acceptance criteria. It summarizes findings by item or identifier, classifies conditions, and documents release or hold status with supporting evidence and approvals when applicable."
+  ],
+
+  "material_test_report": [
+    "Report of material testing associated with a specific heat or lot that supports release decisions. It includes chemical and mechanical test results, sample traceability, equipment calibration status, comparison to requirements, and a conformity summary."
+  ],
+
+  "heat_treatment_report": [
+    "Record of heat treatment applied to a batch or set of parts, documenting cycle parameters, batch identification, monitoring verification, furnace calibration status, and post-process results, concluding with release or required actions for deviations."
+  ],
+
+  "maintenance_procedure": [
+    "Operational field procedure for maintenance and inspection activities, often executed during scheduled work windows. It describes prerequisites and safety requirements, sequential work steps, tools, acceptance criteria, required records, and escalation to engineering when out-of-tolerance conditions are identified."
+  ],
+
+  "user_manual": [
+    "Installation, handling, and use manual intended for technicians, providing practical instructions, safety notes, checklists, configuration and orientation guidance, adjustment steps, clearance verification, and troubleshooting advice."
+  ],
+
+  "welding_report": [
+    "Compilation of welding records demonstrating process conformity, including WPS and PQR references, welder qualifications, essential variables, inspections, repairs and re-inspections, supporting acceptance of welded items and completion of quality records."
+  ],
+
+  "incident_report": [
+    "Report of an unplanned event during field or fabrication activities, documenting the event summary, immediate actions, investigation and classification, causal analysis, and corrective and preventive actions with assigned owners and verified closure."
+  ],
+
+  "maintenance_training_summary": [
+    "Summary of training provided to personnel performing or overseeing maintenance and inspections, outlining purpose, key topics, job aids, competency and sign-off criteria, safety considerations, and expectations for recording and escalation."
+  ]
+}
