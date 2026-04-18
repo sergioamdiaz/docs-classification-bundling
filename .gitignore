@@ -1,22 +1,22 @@
-# ML Concepts - Ignore Rules
+# ----------------------------------
+# Docs Classification - Ignore Rules
+# ----------------------------------
 
 # Data Folder:
-Data/
-data/
+[dD]ata/
 
 
 # Data Docs:
 *.csv
 
 
-# Docs Folder:
-Docs/
-docs/
+# Custom directories
+.notes/
+.docs/
+.intermediate/
 
 
-# Intermidiate steps script
-tools/
-
+# General-----------------------------
 
 # Python cache
 __pycache__/
