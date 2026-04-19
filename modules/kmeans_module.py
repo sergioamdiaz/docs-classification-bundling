@@ -91,7 +91,7 @@ def _read_pdf(path: Path) -> list[str]:
     try:
         import pymupdf
     except ImportError:
-        raise ImportError("Install PyMuPDF: pip install pymupdf")
+        raise ImportError(f"\nInstall PyMuPDF: pip install pymupdf\n")
 
     doc = pymupdf.open(path)
     pages = []
@@ -433,8 +433,10 @@ def _extend_df_labels(df_pages: pd.DataFrame, cluster_ids: np.ndarray, mapping: 
 
     df_pages_segm = (df_pages
                      .groupby("doc_path", group_keys=False)
-                     .apply(lambda g: _segment_labels_no_backtracking(g))
-                     )
+                     .apply(lambda g: _segment_labels_no_backtracking(g)
+                            .assign(doc_path=g.name) # to restore the doc_path after groupby (it became the index after the apply)
+                     ))
+    df_pages_segm.insert(0, "doc_path", df_pages_segm.pop("doc_path")) # Move doc_path back to the first column.
                
     return df_pages_segm
 
@@ -447,9 +449,10 @@ def summary_df(page_records: list[PageRecord], cluster_ids: np.ndarray, mapping:
     df_pages_segm_summary = (df_pages_segm
                                 .groupby(["doc_path", "segment_label"], as_index=False, sort=False) # Keep keys as columns
                                 .agg(first_page=("page_idx", "min"),
-                                    last_page=("page_idx", "max"),
-                                    n_pages=("page_idx", "count"))
+                                     last_page=("page_idx", "max"),
+                                     n_pages=("page_idx", "count"))
                                 )
+    
     # Add a column with the total number of pages in the document:
     df_pages_segm_summary["total_pages_doc"] = (df_pages_segm_summary
                                                     .groupby("doc_path")["last_page"]
@@ -617,7 +620,7 @@ def main_function(data_dir: Path,
     
     # Summary DataFrame:--------------------------------------------------------
     df_pages_segm_summary = summary_df(page_records, cluster_ids, cluster_to_type)
-    print("\nSummary DataFrame:",df_pages_segm_summary.head(20))
+    print("\nSummary DataFrame: (first 20 rows)", df_pages_segm_summary.head(20))
     #---------------------------------------------------------------------------
     
     # Option 1: JSON file with the segmentation of each document:----------------
@@ -635,7 +638,8 @@ def main_function(data_dir: Path,
 #*******************************************************************************
 
 if __name__ == "__main__":
-    """ To run the code, execute the following command in the terminal, providing the path to your config.yaml file:
+    """ To run the code, activate the virtual environment and execute the following 
+    command in the CLI, providing the path to your config.yaml file:
     >>> python -m modules.kmeans_module --config config/config.yaml  
     Assumptions: 
         - The config.yaml file is located in the config/ folder at the project root.
@@ -649,7 +653,7 @@ if __name__ == "__main__":
     args = parser.parse_args() # Here is when the scripts reads from the command line.
     config_path = args.config # The name of the attribute "config" is taken from the flag name in add_argument().
     if not config_path.exists():
-        raise FileNotFoundError(f"The config file was not found at: {config_path}")
+        raise FileNotFoundError('\n' + '-'*70 + f"\nConfig file was not found at: {config_path}\n" + '-'*70)
     config: dict = load_config(config_path) # Loads the content of the YAML file as a dict.
     
     root_dir = Path(__file__).resolve().parent.parent # Assumes the script is in modules/ folder, and modules/ in the root of the project.
@@ -659,13 +663,13 @@ if __name__ == "__main__":
     # --------------------------------------------------------------------------
     data_dir = root_dir / config["paths"]["data_dir"]
     if not data_dir.exists():
-        raise FileNotFoundError(f"The data directory was not found at: {data_dir}")
+        raise FileNotFoundError('\n' + '-'*70 + f"\nThe data directory was not found at: {data_dir}\n" + '-'*70)
     descriptions_file = root_dir / config["paths"]["descriptions_file"]
     if not descriptions_file.exists():
-        raise FileNotFoundError(f"The descriptions file was not found at: {descriptions_file}")
+        raise FileNotFoundError('\n' + '-'*70 + f"\nThe descriptions file was not found at: {descriptions_file}\n" + '-'*70)
     output_dir = root_dir / config["paths"]["output_dir"]
     types = config["types"] # List of doc-types to build each master PDF.
     if not types or not isinstance(types, list):
-        raise ValueError("The 'types' key in the config file must be a non-empty list of document types.")
-    
+        raise ValueError('\n' + '-'*70 + f"\nThe 'types' key in the config file must be a non-empty list of document types.\n" + '-'*70)
+
     main_function(data_dir, descriptions_file, output_dir, types)
