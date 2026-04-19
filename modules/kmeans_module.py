@@ -636,20 +636,36 @@ def main_function(data_dir: Path,
 
 if __name__ == "__main__":
     """ To run the code, execute the following command in the terminal, providing the path to your config.yaml file:
-    >>> python kmeans_module.py --config ../config/config.yaml  
-    (Assuming the config.yaml folder is parallel the module folder) """
+    >>> python -m modules.kmeans_module --config config/config.yaml  
+    Assumptions: 
+        - The config.yaml file is located in the config/ folder at the project root.
+        - The command is executed from the root of the project.
+    """
+    # --------------------------------------------------------------------------
     # Load configuration:
+    # --------------------------------------------------------------------------
     parser = argparse.ArgumentParser(description="K-means clustering for document classification.")
     parser.add_argument("--config", type=Path, required=True, help="Path to the YAML config file.") # argparse automatically converts the type to Path.
     args = parser.parse_args() # Here is when the scripts reads from the command line.
-    config: dict = load_config(args.config) # The name of the attribute "config" is taken from the flag name in add_argument().
+    config_path = args.config # The name of the attribute "config" is taken from the flag name in add_argument().
+    if not config_path.exists():
+        raise FileNotFoundError(f"The config file was not found at: {config_path}")
+    config: dict = load_config(config_path) # Loads the content of the YAML file as a dict.
     
-    config_abs_path = args.config.resolve().parent # Paths will be relative to the config.yaml parent folder
+    root_dir = Path(__file__).resolve().parent.parent # Assumes the script is in modules/ folder, and modules/ in the root of the project.
     
-    # Main Paths:
-    data_dir = config_abs_path / config["paths"]["data_dir"]
-    descriptions_file = config_abs_path / config["paths"]["descriptions_file"]
-    output_dir = config_abs_path / config["paths"]["output_dir"]
+    # --------------------------------------------------------------------------
+    # Extract the main paths from the config dict (paths should be relative to the root of the project):
+    # --------------------------------------------------------------------------
+    data_dir = root_dir / config["paths"]["data_dir"]
+    if not data_dir.exists():
+        raise FileNotFoundError(f"The data directory was not found at: {data_dir}")
+    descriptions_file = root_dir / config["paths"]["descriptions_file"]
+    if not descriptions_file.exists():
+        raise FileNotFoundError(f"The descriptions file was not found at: {descriptions_file}")
+    output_dir = root_dir / config["paths"]["output_dir"]
     types = config["types"] # List of doc-types to build each master PDF.
+    if not types or not isinstance(types, list):
+        raise ValueError("The 'types' key in the config file must be a non-empty list of document types.")
     
     main_function(data_dir, descriptions_file, output_dir, types)
