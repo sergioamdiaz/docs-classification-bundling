@@ -468,7 +468,7 @@ def summary_df(page_records: list[PageRecord], cluster_ids: np.ndarray, mapping:
 # OPTION 1: JSON FILE WITH THE DOCUMENTS SEGMENTATION
 #*******************************************************************************
 
-def _save_segmentation_json(df: pd.DataFrame, output_path: Path) -> dict[str, list[dict]]:
+def save_segmentation_json(df: pd.DataFrame, output_path: Path) -> dict[str, list[dict]]:
     """ Saves the segmentation results in a JSON file and returns the corresponding dict. 
     The JSON will be a dict where the KEYS are the document paths and the VALUES are a list
     of dicts, one per segment, containing the following information:
@@ -553,7 +553,7 @@ def _build_master_pdf_type(df: pd.DataFrame,
     print(f"\nMaster PDF file created at: {master_path}\n")
     return master_path
 
-def _build_master_pdfs(df: pd.DataFrame, 
+def build_master_pdfs(df: pd.DataFrame, 
                        doc_types: list[str], 
                        output_dir: Path) -> dict[str, Path]:
     """ Builds master PDFs for a list of given document types. 
@@ -625,11 +625,11 @@ def main_function(data_dir: Path,
     
     # Option 1: JSON file with the segmentation of each document:----------------
     if option == "opt1": # This is the default option.
-        return _save_segmentation_json(df_pages_segm_summary, output_dir)
+        return save_segmentation_json(df_pages_segm_summary, output_dir)
     
     # Option 2: Build final documents:------------------------------------------
     elif option == "opt2":  
-        _build_master_pdfs(df_pages_segm_summary, types, output_dir)
+        build_master_pdfs(df_pages_segm_summary, types, output_dir)
 
 
 
