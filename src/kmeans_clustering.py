@@ -12,13 +12,13 @@ from scipy.optimize import linear_sum_assignment
 # KMEANS CLUSTERING:
 #*******************************************************************************
 
-def cluster_pages_kmeans_seeded( page_embs: np.ndarray,
+def cluster_pages_kmeans_seeded(page_embs: np.ndarray,
                                 type_centroids: np.ndarray,
                                 random_state: int = 42,
                                 max_iter: int = 300) -> tuple[np.ndarray, object]:
     """
-    Clusteriza páginas usando KMeans, inicializando centros con los centroides de doc-types.
-    Retorna cluster_id por página (0..k-1).
+    cluster pages using k-means, initializing the centroids with the type centroids obtained from the doc-types.
+    Returns the cluster id for each page and the k-means model.
     """
     try:
         from sklearn.cluster import KMeans

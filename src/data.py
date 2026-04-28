@@ -54,7 +54,7 @@ def load_doc_type_descriptions(path: Path) -> dict[str, list[str]]:
         raise ValueError("JSON file structure must be dict[str, list[str]]")
     return data
 
-def list_files(root_dir: Path, allowed_exts: set) -> list[Path]:
+def list_files(root_dir: Path, allowed_exts: set = ALLOWED_EXTS) -> list[Path]:
     """ Returns a list of paths to all the allowed files in the given directory. """
     files = []
     for root, _, filenames in os.walk(root_dir):
@@ -122,12 +122,17 @@ def _clean_pages(pages: list[str]) -> list[str]:
 # Building the dataset of pages:
 @dataclass
 class PageRecord:
+    ''' A dataclass that represents a page of a document, with its path, name, index and text. '''
     doc_path: Path
     doc_name: str
     page_idx: int
     text: str
     
 def build_page_records(paths: list[Path]) -> list[PageRecord]:
+    '''
+    Builds a list of PageRecord dataclass instances, where each instance represents a page of a document.
+    Each PageRecord contains the document path, document name, page index and the cleaned text of the page.
+    '''
     records = []
     for path in paths:
         pages = _clean_pages(extract_pages(path))

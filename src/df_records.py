@@ -22,7 +22,7 @@ def _next_usable_labels(df: pd.DataFrame, start_idx: int, k: int) -> list[str]:
     labels = []
     for j in range(start_idx + 1, len(df)): # +1 because we want the upcoming pages. Don't care about the current one.
         if df.loc[j, "usable"]:
-            labels.append(df.loc[j, "kmeans_label"])
+            labels.append(df.loc[j, "label"])
             if len(labels) >= k:
                 break
     return labels
@@ -54,12 +54,12 @@ def _segment_labels_no_backtracking(df_doc: pd.DataFrame,
     
     for i in range(len(df)):
         if df.usable[i]:
-            current_segm_label = df["kmeans_label"][i]
+            current_segm_label = df["label"][i]
             break
 
     # If there are no usable pages, do nothing. Most likely, the code will not reach this point.
     if current_segm_label is None:
-        df["segment_label"] = df["kmeans_label"]
+        df["segment_label"] = df["label"]
         df["segment_change_at"] = False
         return df
 
@@ -70,7 +70,7 @@ def _segment_labels_no_backtracking(df_doc: pd.DataFrame,
     """ This is where the segmentation logic happens: """
     for i in range(len(df)):
         usable = df.usable[i]
-        orig_label = df["kmeans_label"][i] # Original label of the currently inspected page.
+        orig_label = df["label"][i] # Original label of the currently inspected page.
 
         # Not usable page:
         if not usable:
@@ -144,7 +144,7 @@ def _build_pages_df(page_records: list[PageRecord]) -> pd.DataFrame:
 def _extend_df_labels(df_pages: pd.DataFrame, cluster_ids: np.ndarray, mapping: dict[int, str]) -> pd.DataFrame:
 
     df_pages["cluster_id"]   = cluster_ids
-    df_pages["kmeans_label"] = df_pages["cluster_id"].map(mapping)
+    df_pages["label"] = df_pages["cluster_id"].map(mapping)
     df_pages["usable"]       = (df_pages["text_len"] > 50)
 
     df_pages_segm = (df_pages
